@@ -18,5 +18,5 @@ app.get('/', async (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Meu servidor está na porta 3000')
+    console.log('Meu servidor está na porta 3000 e funcionou')
 })
